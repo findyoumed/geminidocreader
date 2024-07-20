@@ -6,3 +6,4 @@ langchain-core
 langchain-google-genai
 python-docx
 faiss-cpu
+pypdf
